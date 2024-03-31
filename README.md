@@ -2,7 +2,7 @@
 
 I’m a political science student interested in political/sociological behaviour, electoral processes and public policy evaluation. That is why I have a high interest in data analysis, in order to be able to apply it to political science.
 
-I'm learning to program in R and other data visualization tools. Later on, I will want to learn Python.
+I'm learning to program in R and some data visualization tools, like PowerBi. Later on, I will want to learn Python.
 
 
 <!---
