@@ -12,7 +12,7 @@ I'm learning to program in R and some data visualization tools, like PowerBi. I'
 
 
 ### 📚 Projects
-Here you can find all my portfolio, where I showcase my [project](https://github.com/itsmariaaa/Portfolio).
+Here you can find all my portfolio, where I showcase my [projects](https://github.com/itsmariaaa/Portfolio).
 <!---
 itsmariaaa/itsmariaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
